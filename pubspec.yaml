@@ -1,9 +1,9 @@
 name: sy_theme
 description: "A comprehensive Flutter UI theme package providing reusable widgets, color constants, and navigation components for consistent app design."
 version: 0.0.1
-homepage: https://github.com/yourusername/sy_theme
-repository: https://github.com/yourusername/sy_theme
-issue_tracker: https://github.com/yourusername/sy_theme/issues
+homepage: https://github.com/Samson-prog254/sy_theme
+repository: https://github.com/Samson-prog254/sy_theme
+issue_tracker: https://github.com/Samson-prog254/sy_theme/issues
 
 environment:
   sdk: ^3.9.2

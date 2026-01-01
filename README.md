@@ -85,4 +85,4 @@ SygenFooter()
 
 This package is designed to provide consistent theming across Flutter applications. All components are customizable and follow Material Design principles.
 
-For issues and feature requests, please visit our [GitHub repository](https://github.com/yourusername/sy_theme).
+For issues and feature requests, please visit our [GitHub repository](https://github.com/Samson-prog254/sy_theme).
